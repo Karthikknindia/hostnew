@@ -1,0 +1,305 @@
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\appsettings.Development.json
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\appsettings.json
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.exe
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.deps.json
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.runtimeconfig.json
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.pdb
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.csproj.AssemblyReference.cache
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.AssemblyInfoInputs.cache
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.AssemblyInfo.cs
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.csproj.CoreCompileInputs.cache
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.MvcApplicationPartsAssemblyInfo.cs
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.MvcApplicationPartsAssemblyInfo.cache
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.Ticket Booking App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket Booking App.props
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket Booking App.props
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket Booking App.props
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets.build.json
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets.development.json
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\scopedcss\bundle\Ticket Booking App.styles.css
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.csproj.CopyComplete
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\refint\Ticket Booking App.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.pdb
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.genruntimeconfig.cache
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\ref\Ticket Booking App.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Azure.Core.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Azure.Identity.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Dapper.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\EntityFramework.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Humanizer.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.CodeDom.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Text.Json.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Karthik\Ticket Booking\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\appsettings.Development.json
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\appsettings.json
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.exe
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.deps.json
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.runtimeconfig.json
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.pdb
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Azure.Core.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Azure.Identity.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Dapper.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\EntityFramework.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Humanizer.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.CodeDom.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Text.Json.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.csproj.AssemblyReference.cache
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.AssemblyInfoInputs.cache
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.AssemblyInfo.cs
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.csproj.CoreCompileInputs.cache
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.MvcApplicationPartsAssemblyInfo.cs
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.MvcApplicationPartsAssemblyInfo.cache
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.Ticket Booking App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket Booking App.props
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket Booking App.props
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket Booking App.props
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\scopedcss\bundle\Ticket Booking App.styles.css
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.csproj.CopyComplete
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\refint\Ticket Booking App.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.pdb
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.genruntimeconfig.cache
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\obj\Debug\net6.0\ref\Ticket Booking App.dll
+D:\Ticket Booking Final\Back End\Ticket Booking App\Ticket Booking App\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\appsettings.Development.json
+D:\new host\Ticket Booking App\bin\Debug\net6.0\appsettings.json
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.exe
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.deps.json
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.runtimeconfig.json
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Ticket Booking App.pdb
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Azure.Core.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Azure.Identity.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Dapper.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\EntityFramework.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Humanizer.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.CodeDom.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Memory.Data.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Text.Json.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\new host\Ticket Booking App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.csproj.AssemblyReference.cache
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.GeneratedMSBuildEditorConfig.editorconfig
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.AssemblyInfoInputs.cache
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.AssemblyInfo.cs
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.csproj.CoreCompileInputs.cache
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.MvcApplicationPartsAssemblyInfo.cs
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.MvcApplicationPartsAssemblyInfo.cache
+D:\new host\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.Ticket Booking App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\new host\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.build.Ticket Booking App.props
+D:\new host\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ticket Booking App.props
+D:\new host\Ticket Booking App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ticket Booking App.props
+D:\new host\Ticket Booking App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\new host\Ticket Booking App\obj\Debug\net6.0\staticwebassets.build.json
+D:\new host\Ticket Booking App\obj\Debug\net6.0\staticwebassets.development.json
+D:\new host\Ticket Booking App\obj\Debug\net6.0\scopedcss\bundle\Ticket Booking App.styles.css
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.csproj.CopyComplete
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.dll
+D:\new host\Ticket Booking App\obj\Debug\net6.0\refint\Ticket Booking App.dll
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.pdb
+D:\new host\Ticket Booking App\obj\Debug\net6.0\Ticket Booking App.genruntimeconfig.cache
+D:\new host\Ticket Booking App\obj\Debug\net6.0\ref\Ticket Booking App.dll
